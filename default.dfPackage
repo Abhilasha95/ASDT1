@@ -1,0 +1,37 @@
+package idj3eh0k319od0bk319odn0;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:design#Class#iddkal6k319od0bk319odp5.diagram:oiref><oihard>
+@__modelType reference
+@__fqn <oiref:#Package#myCode:oiref> 
+*/
+class reference {
+}
+}/**
+@__tags
+@shapeType ClassDiagram
+@changelog rO0ABXNyABFqYXZhLnV0aWwuSGFzaE1hcAUH2sHDFmDRAwACRgAKbG9hZEZhY3RvckkACXRocmVz
+aG9sZHhwP0AAAAAAAAx3CAAAABAAAAACc3IADmphdmEubGFuZy5Mb25nO4vkkMyPI98CAAFKAAV2
+YWx1ZXhyABBqYXZhLmxhbmcuTnVtYmVyhqyVHQuU4IsCAAB4cAAAAW5xgmAAc3IAE2phdmEudXRp
+bC5BcnJheUxpc3R4gdIdmcdhnQMAAUkABHNpemV4cAAAAAF3BAAAAApzcgAlZGUubW5sLmRvY2Jv
+b2s0VEEuaW1wbC5DaGFuZ2VMb2dFbnRyeQeNjrX5qiSfAgADTAAIaG9zdG5hbWV0ABJMamF2YS9s
+YW5nL1N0cmluZztMAARuYW1lcQB+AAhMAAR1c2VycQB+AAh4cHQAD0RFU0tUT1AtQ0JJNTFPTnQA
+CTxkZWZhdWx0PnQABUFub29weHNxAH4AAgAAAW52qLwAc3EAfgAFAAAAAXcEAAAACnNxAH4AB3QA
+D0RFU0tUT1AtQ0JJNTFPTnQACTxkZWZhdWx0PnQABUFub29weHg=
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions <oigroup:<oiref:design#Class#iddkal6k319od0bk319odp5.diagram:oiref>=10,10,130,264,1:oigroup>
+*/
+class __positions {
+}

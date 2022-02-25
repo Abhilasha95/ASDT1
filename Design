@@ -1,0 +1,8 @@
+How to Win Tic Tac Toe Game: https://www.youtube.com/watch?v=WUX0hB1u0vE
+
+CTicTacToeGame finding the winner
+	pLatest <- position of latest move
+	Iterate in all directions
+		Check if already won
+
+ 	
